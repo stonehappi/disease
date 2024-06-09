@@ -1,0 +1,27 @@
+.bg-suc {
+    color:#fff!important;
+    background-color: #5cb85c!important;
+}
+.bg-prim {
+    color:#fff!important;
+    background-color: #337ab7!important;
+}
+.bg-inf {
+    color:#fff!important;
+    background-color: #5bc0de!important;
+}
+.bg-warn {
+    color:#fff!important;
+    background-color: #f0ad4e!important;
+}
+.bg-dang {
+    color:#fff!important;
+    background-color: #d9534f!important;
+}
+.bg-dark {
+    color:#fff!important;
+    background-color: #101010!important;
+}
+.pl{
+    padding-left: 16px;
+}
